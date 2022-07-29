@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto; 
+}
+
+.timer {
+  font-size: 25px;
+}
+
+.timer__button {
+  border: 1px solid black;
+  border-radius: 28px;
+  background-color: green;
+  margin: 15px;
+  color: white;
+}
